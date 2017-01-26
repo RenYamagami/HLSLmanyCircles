@@ -1,14 +1,7 @@
 # HLSLmanyCircles
 
-I made these graphics.
+this is practice for making GLSL graphics.
 
+![uei](https://github.com/RenYamagami/HLSLmanyCircles/blob/master/gif/circles.gif "uei")
 
-
-three HLSL shader code
-
-## GLSL Circle
-
-## GLSL Square
-
-## GLSL Space
 
